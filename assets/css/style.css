@@ -93,7 +93,7 @@ body {
 
 @media (orientation: landscape) {
 	.header-blog {
-		font-size: 4rem; /*128px*/
+		font-size: 3rem; /*128px*/
 	}
 
 	.button-blog-container {
