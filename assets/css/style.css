@@ -85,9 +85,6 @@ body {
 .header-blog {
 	text-align: center;
 	display: inline-block;
-	padding-left: 1rem;
-	position: relative;
-	bottom: 1.5rem;
 	width: 70%;
 }
 
@@ -112,7 +109,7 @@ body {
 
 @media (orientation: portrait) {
 	.header-blog {
-		font-size: 2.5rem;
+		font-size: 2rem;
 	}
 
 	.button-blog-container {
